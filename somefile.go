@@ -12,5 +12,5 @@ func main() {
 	(*myStruct).MyMethod()
 	fmt.Println(*myStruct)
 	var UNCLE = package1.UNCLE
-	fmt.Println(UNCLE) //i just made some changes bro test
+	fmt.Println(UNCLE) //i just made some changes bro test my
 }
